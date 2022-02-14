@@ -1,6 +1,17 @@
-# Aries ACA-Py Jupyter Playground - Scottish Healthcare Identification Ecosystem
+# Scottish Healthcare Identification Ecosystem
 
-## A Jupyter Notebook Based Playground for Education and Experimentation with Hyperledger Aries
+## Built using the [Aries Jupyter Notebook Playground](https://github.com/wip-abramson/aries-jupyter-playground)
+
+This project was produced as part of a PhD Thesis. 
+
+Related publications:
+
+* Abramson, W., van Deursen, N. E., & Buchanan, W. J. (2020). Trust-by-Design: Evaluating Issues and Perceptions within Clinical Passporting. Blockchain in Healthcare Today.
+* Abramson, W., Papadopoulos, P., Pitropakis, N., & Buchanan, W. J. (2021). PyDentity: A playground for education and experimentation with the Hyperledger verifiable information exchange platform. Software Impacts, 9, 100101.
+
+[![Scottish Healthcare Ecosystem PoC Demo](https://i9.ytimg.com/vi/ZMIWxIq1MoQ/mq1.jpg?sqp=CNTgqJAG&rs=AOn4CLDxK9MrLeVgla-V9rluTGVpYdq3mA)](https://www.youtube.com/watch?v=ZMIWxIq1MoQ&feature=youtu.be)
+
+You can also find all the iStar diagrams produced as part of this research using the [piStar tool](https://www.cin.ufpe.br/~jhcp/pistar/) in the `iStar-diagrams` folder.
 
 ## Requirements
 

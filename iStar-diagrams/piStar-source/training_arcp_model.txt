@@ -1,0 +1,857 @@
+{
+  "actors": [
+    {
+      "id": "7209f10f-3ab3-4464-a4a1-ade558731b7c",
+      "text": "Scottish Deanery",
+      "type": "istar.Actor",
+      "x": 564,
+      "y": 379,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "506624cb-e3fa-4970-816a-0bd3681444fe",
+      "text": "Educational Supervisor",
+      "type": "istar.Role",
+      "x": 325,
+      "y": 499,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "fbf8ace5-64af-4d2b-9f03-c5edf0dfb1ba",
+          "text": "Arrange Formal Assessments",
+          "type": "istar.Task",
+          "x": 495,
+          "y": 592,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "111f9f3d-1264-4156-bf9c-e0eb9ad1bda8",
+          "text": "Set Doctor Goals",
+          "type": "istar.Task",
+          "x": 500,
+          "y": 499,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "687ade64-0adb-4c5c-8a05-08dd91c86b4d",
+          "text": "Lead Annual Review of Competence Progression (ARCP)",
+          "type": "istar.Task",
+          "x": 384,
+          "y": 667,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "151ea4e5-9315-48bd-9781-5bdd1f175d87",
+          "text": "Attend Meetings",
+          "type": "istar.Task",
+          "x": 546,
+          "y": 643,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "1b2df111-ed74-4195-a177-0d6bb9c9c9bb",
+          "text": "Encourage Career Development",
+          "type": "istar.Goal",
+          "x": 395,
+          "y": 538,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "7fb7ddfa-1bd7-42d2-a546-1fe0399b038a",
+          "text": "Manage Career Progression",
+          "type": "istar.Task",
+          "x": 370,
+          "y": 605,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "3673716c-6dc4-4fd4-917b-44de609d6354",
+          "text": "Issue ARCP Reference",
+          "type": "istar.Task",
+          "x": 368,
+          "y": 750,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "7853d418-ddd4-4f3c-8e9f-5e34520eb733",
+      "text": "Junior Doctor",
+      "type": "istar.Role",
+      "x": 943,
+      "y": 518,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "32e8c61b-5a7e-4109-8c2b-b6ba576f49b7",
+          "text": "Determine Career Direction",
+          "type": "istar.Task",
+          "x": 1254,
+          "y": 555,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "5cf9899e-28f1-461d-a511-5d13c7556cc5",
+          "text": "Complete Assessements",
+          "type": "istar.Task",
+          "x": 946,
+          "y": 576,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "5fcb30a6-299a-44ec-8de7-2c859e00e690",
+          "text": "Complete ARCP",
+          "type": "istar.Task",
+          "x": 1045,
+          "y": 682,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "4ba6787b-4b98-4d45-8d1e-bff5a791f370",
+          "text": "Arrange Meetings",
+          "type": "istar.Task",
+          "x": 963,
+          "y": 626,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "584d0302-a5db-4902-8f00-7fa51cbf6124",
+          "text": "Achieve Goals",
+          "type": "istar.Task",
+          "x": 1182,
+          "y": 620,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "2f1a261c-4ccd-41e1-9a2d-6737d45d8171",
+          "text": "Record Achievements",
+          "type": "istar.Task",
+          "x": 1232,
+          "y": 678,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "676da4b8-11e8-43d4-ada0-4ce8b11c3aa0",
+          "text": "Progress in Career",
+          "type": "istar.Goal",
+          "x": 1051,
+          "y": 518,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "ae5d8c6a-146d-41bb-8f4c-ba56f8c51dab",
+          "text": "ARCP Reference",
+          "type": "istar.Resource",
+          "x": 972,
+          "y": 739,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "3f169846-7a32-4a46-a0b3-f315252dcb98",
+          "text": "Complete Training",
+          "type": "istar.Task",
+          "x": 1341,
+          "y": 640,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "83eef260-eebd-4833-87f6-54c06f2aa947",
+          "text": "Training Certificate",
+          "type": "istar.Resource",
+          "x": 1309,
+          "y": 752,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "9dbcb749-3a19-482a-a5d2-1e97d4c76714",
+          "text": "Achievement Record",
+          "type": "istar.Resource",
+          "x": 1176,
+          "y": 775,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "6d3daae1-a98a-4a99-8c38-242897cd6867",
+          "text": "Clinical Reference",
+          "type": "istar.Resource",
+          "x": 1071,
+          "y": 762,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "7b9f7291-80d5-404b-85e4-0b3773c38264",
+      "text": "Doctor",
+      "type": "istar.Role",
+      "x": 321,
+      "y": 889,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "a274d49c-d1e5-4a0d-be74-cb4a6f2aaa15",
+      "text": "Digital Portfolio",
+      "type": "istar.Agent",
+      "x": 1273,
+      "y": 341,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "92a58f48-f03a-4df0-9929-1fad10aff132",
+          "text": "Store Achievements",
+          "type": "istar.Task",
+          "x": 1358.5,
+          "y": 386,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "7de33c51-edc5-432c-9c69-50c1b11bb5ea",
+      "text": "Royal Infirmary of Edinburgh",
+      "type": "istar.Actor",
+      "x": 1430,
+      "y": 891,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "305c97ac-3897-44d6-bd4f-b2b3559f9e80",
+          "text": "Provide Medical Training",
+          "type": "istar.Goal",
+          "x": 1520,
+          "y": 920,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "8a53e565-5bbc-4bfb-a443-f9fd4d2ab547",
+          "text": "Run Training Events",
+          "type": "istar.Task",
+          "x": 1470,
+          "y": 982,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "5477d24e-c1c7-4032-9efb-2c6492f0aca3",
+          "text": "Issue Training Certificates",
+          "type": "istar.Task",
+          "x": 1596,
+          "y": 999,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "f960fb8d-d0f7-4ff8-8db1-afddfb3d7363",
+      "text": "Healthcare Training Provider",
+      "type": "istar.Actor",
+      "x": 1320,
+      "y": 1027,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "476ffa72-2139-4d31-8ecb-c84d3ca2f4e5",
+      "text": "Clinical Supervisor",
+      "type": "istar.Role",
+      "x": 995,
+      "y": 946,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "41714147-0917-4dad-80ea-bc22ef8f42d3",
+          "text": "Mentor Doctors in Clinical Setting",
+          "type": "istar.Goal",
+          "x": 1096,
+          "y": 1100,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "d9188672-30a9-412a-bc35-91fd217ba219",
+          "text": "Supervise Doctors",
+          "type": "istar.Task",
+          "x": 1071,
+          "y": 1043,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "b84fc93b-d7ab-48a0-8861-6234e7eeeb44",
+          "text": "Issue Clincal References",
+          "type": "istar.Task",
+          "x": 1084,
+          "y": 970,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    }
+  ],
+  "orphans": [],
+  "dependencies": [
+    {
+      "id": "2aeb3d13-5152-487a-8ead-a31cfd821d3b",
+      "text": "Attend Meetings",
+      "type": "istar.Task",
+      "x": 698,
+      "y": 578,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "4ba6787b-4b98-4d45-8d1e-bff5a791f370",
+      "target": "151ea4e5-9315-48bd-9781-5bdd1f175d87"
+    },
+    {
+      "id": "29107912-e620-46d6-9b1a-0f27d46c8fa3",
+      "text": "Arrange Meetings",
+      "type": "istar.Task",
+      "x": 752,
+      "y": 640,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "151ea4e5-9315-48bd-9781-5bdd1f175d87",
+      "target": "4ba6787b-4b98-4d45-8d1e-bff5a791f370"
+    },
+    {
+      "id": "97bf4622-3488-4e9c-9afe-ff631470affe",
+      "text": "Arrange Assessement",
+      "type": "istar.Task",
+      "x": 686,
+      "y": 510,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "5cf9899e-28f1-461d-a511-5d13c7556cc5",
+      "target": "fbf8ace5-64af-4d2b-9f03-c5edf0dfb1ba"
+    },
+    {
+      "id": "8f8d803b-9e1f-42be-9d2a-3fcd3f55ef31",
+      "text": "Lead ARCP",
+      "type": "istar.Task",
+      "x": 698,
+      "y": 748,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "5fcb30a6-299a-44ec-8de7-2c859e00e690",
+      "target": "687ade64-0adb-4c5c-8a05-08dd91c86b4d"
+    },
+    {
+      "id": "0eb30a9f-0350-44d2-b493-3043a69fb13f",
+      "text": "Define Career Direction",
+      "type": "istar.Task",
+      "x": 1032,
+      "y": 387,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "111f9f3d-1264-4156-bf9c-e0eb9ad1bda8",
+      "target": "32e8c61b-5a7e-4109-8c2b-b6ba576f49b7"
+    },
+    {
+      "id": "adce0372-13c6-4698-aca3-1ed106ed2599",
+      "text": "ARCP Reference",
+      "type": "istar.Resource",
+      "x": 656,
+      "y": 845,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "ae5d8c6a-146d-41bb-8f4c-ba56f8c51dab",
+      "target": "3673716c-6dc4-4fd4-917b-44de609d6354"
+    },
+    {
+      "id": "fa1fa7a5-d847-48f5-89c3-23d888e01879",
+      "text": "Training Certificate",
+      "type": "istar.Resource",
+      "x": 1558,
+      "y": 746,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "83eef260-eebd-4833-87f6-54c06f2aa947",
+      "target": "5477d24e-c1c7-4032-9efb-2c6492f0aca3"
+    },
+    {
+      "id": "d9ef6f49-c1f2-4ff6-95e4-926a02f3a9eb",
+      "text": "Complete Training",
+      "type": "istar.Task",
+      "x": 1626,
+      "y": 602,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "5477d24e-c1c7-4032-9efb-2c6492f0aca3",
+      "target": "3f169846-7a32-4a46-a0b3-f315252dcb98"
+    },
+    {
+      "id": "89433fca-030e-4774-a049-beebfc7b0d9f",
+      "text": "Run Training Event",
+      "type": "istar.Task",
+      "x": 1453,
+      "y": 708,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "3f169846-7a32-4a46-a0b3-f315252dcb98",
+      "target": "8a53e565-5bbc-4bfb-a443-f9fd4d2ab547"
+    },
+    {
+      "id": "fd6b9cd4-3f32-4e36-a320-12156ad929bb",
+      "text": "Clinical Reference",
+      "type": "istar.Resource",
+      "x": 1069,
+      "y": 846,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "6d3daae1-a98a-4a99-8c38-242897cd6867",
+      "target": "b84fc93b-d7ab-48a0-8861-6234e7eeeb44"
+    },
+    {
+      "id": "6c8d4348-934d-47ed-aa02-cdf6f48985cd",
+      "text": "Record Achievements",
+      "type": "istar.Task",
+      "x": 1401,
+      "y": 457,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "2f1a261c-4ccd-41e1-9a2d-6737d45d8171",
+      "target": "a274d49c-d1e5-4a0d-be74-cb4a6f2aaa15"
+    }
+  ],
+  "links": [
+    {
+      "id": "eedbcfb3-88df-4645-87ca-f5b4f754a7ff",
+      "type": "istar.DependencyLink",
+      "source": "4ba6787b-4b98-4d45-8d1e-bff5a791f370",
+      "target": "2aeb3d13-5152-487a-8ead-a31cfd821d3b"
+    },
+    {
+      "id": "fe8e5b68-0e3e-43d1-b7bb-c7fee5ef3f13",
+      "type": "istar.DependencyLink",
+      "source": "2aeb3d13-5152-487a-8ead-a31cfd821d3b",
+      "target": "151ea4e5-9315-48bd-9781-5bdd1f175d87"
+    },
+    {
+      "id": "af1bd443-5702-4657-9d1b-1688e51b91a3",
+      "type": "istar.DependencyLink",
+      "source": "151ea4e5-9315-48bd-9781-5bdd1f175d87",
+      "target": "29107912-e620-46d6-9b1a-0f27d46c8fa3"
+    },
+    {
+      "id": "37441efc-98ee-4650-a932-fb94e5367156",
+      "type": "istar.DependencyLink",
+      "source": "29107912-e620-46d6-9b1a-0f27d46c8fa3",
+      "target": "4ba6787b-4b98-4d45-8d1e-bff5a791f370"
+    },
+    {
+      "id": "e3398002-8938-4d8e-b54a-0436b32e4973",
+      "type": "istar.DependencyLink",
+      "source": "5cf9899e-28f1-461d-a511-5d13c7556cc5",
+      "target": "97bf4622-3488-4e9c-9afe-ff631470affe"
+    },
+    {
+      "id": "d60d3e5f-e5d6-4d09-bc3a-659173988198",
+      "type": "istar.DependencyLink",
+      "source": "97bf4622-3488-4e9c-9afe-ff631470affe",
+      "target": "fbf8ace5-64af-4d2b-9f03-c5edf0dfb1ba"
+    },
+    {
+      "id": "dd7664e0-cbb8-463e-b9b5-fdcd0af66695",
+      "type": "istar.DependencyLink",
+      "source": "5fcb30a6-299a-44ec-8de7-2c859e00e690",
+      "target": "8f8d803b-9e1f-42be-9d2a-3fcd3f55ef31"
+    },
+    {
+      "id": "69f8ed88-c047-49ec-ba55-5e92a359990b",
+      "type": "istar.DependencyLink",
+      "source": "8f8d803b-9e1f-42be-9d2a-3fcd3f55ef31",
+      "target": "687ade64-0adb-4c5c-8a05-08dd91c86b4d"
+    },
+    {
+      "id": "0954ff2e-5631-44b0-8c8b-fbed31dff526",
+      "type": "istar.ParticipatesInLink",
+      "source": "506624cb-e3fa-4970-816a-0bd3681444fe",
+      "target": "7209f10f-3ab3-4464-a4a1-ade558731b7c"
+    },
+    {
+      "id": "2f87ad7e-c6f1-4982-8160-439d8c624244",
+      "type": "istar.IsALink",
+      "source": "506624cb-e3fa-4970-816a-0bd3681444fe",
+      "target": "7b9f7291-80d5-404b-85e4-0b3773c38264"
+    },
+    {
+      "id": "a71395f4-1cd9-4463-99d4-0d2a454c627c",
+      "type": "istar.IsALink",
+      "source": "7853d418-ddd4-4f3c-8e9f-5e34520eb733",
+      "target": "7b9f7291-80d5-404b-85e4-0b3773c38264"
+    },
+    {
+      "id": "9a4bc0d9-811b-4c32-9aa5-4730133bad9b",
+      "type": "istar.ParticipatesInLink",
+      "source": "7853d418-ddd4-4f3c-8e9f-5e34520eb733",
+      "target": "7209f10f-3ab3-4464-a4a1-ade558731b7c"
+    },
+    {
+      "id": "f8a9f9b0-ab1d-4e88-9e19-122466c7b461",
+      "type": "istar.IsALink",
+      "source": "7de33c51-edc5-432c-9c69-50c1b11bb5ea",
+      "target": "f960fb8d-d0f7-4ff8-8db1-afddfb3d7363"
+    },
+    {
+      "id": "106d1e30-cf1b-4778-9ed0-dbbd5485e73c",
+      "type": "istar.AndRefinementLink",
+      "source": "2f1a261c-4ccd-41e1-9a2d-6737d45d8171",
+      "target": "584d0302-a5db-4902-8f00-7fa51cbf6124"
+    },
+    {
+      "id": "7c1d5fd6-6797-4582-bcb1-2ac2e6b2e67a",
+      "type": "istar.AndRefinementLink",
+      "source": "676da4b8-11e8-43d4-ada0-4ce8b11c3aa0",
+      "target": "32e8c61b-5a7e-4109-8c2b-b6ba576f49b7"
+    },
+    {
+      "id": "f003bbd0-5e5b-4326-9f03-77c62736d6c3",
+      "type": "istar.AndRefinementLink",
+      "source": "584d0302-a5db-4902-8f00-7fa51cbf6124",
+      "target": "32e8c61b-5a7e-4109-8c2b-b6ba576f49b7"
+    },
+    {
+      "id": "92ec6eb8-deb2-4449-afa3-28f8fdce1051",
+      "type": "istar.AndRefinementLink",
+      "source": "5fcb30a6-299a-44ec-8de7-2c859e00e690",
+      "target": "676da4b8-11e8-43d4-ada0-4ce8b11c3aa0"
+    },
+    {
+      "id": "72cb90a2-8285-4a42-90dd-3b6272d71a32",
+      "type": "istar.AndRefinementLink",
+      "source": "5cf9899e-28f1-461d-a511-5d13c7556cc5",
+      "target": "676da4b8-11e8-43d4-ada0-4ce8b11c3aa0"
+    },
+    {
+      "id": "16c3b643-702e-4d0d-80c2-c3a7d0673722",
+      "type": "istar.AndRefinementLink",
+      "source": "4ba6787b-4b98-4d45-8d1e-bff5a791f370",
+      "target": "32e8c61b-5a7e-4109-8c2b-b6ba576f49b7"
+    },
+    {
+      "id": "3a3cb87e-431b-41b3-8912-39e7329b4a67",
+      "type": "istar.AndRefinementLink",
+      "source": "111f9f3d-1264-4156-bf9c-e0eb9ad1bda8",
+      "target": "1b2df111-ed74-4195-a177-0d6bb9c9c9bb"
+    },
+    {
+      "id": "19e0705e-a4d2-49cb-9615-28e783b11068",
+      "type": "istar.AndRefinementLink",
+      "source": "fbf8ace5-64af-4d2b-9f03-c5edf0dfb1ba",
+      "target": "7fb7ddfa-1bd7-42d2-a546-1fe0399b038a"
+    },
+    {
+      "id": "d1846892-cc62-4388-ade4-f5241127f53f",
+      "type": "istar.AndRefinementLink",
+      "source": "151ea4e5-9315-48bd-9781-5bdd1f175d87",
+      "target": "7fb7ddfa-1bd7-42d2-a546-1fe0399b038a"
+    },
+    {
+      "id": "14aad67f-65f2-4f40-b3e6-6fc87373c4bc",
+      "type": "istar.AndRefinementLink",
+      "source": "687ade64-0adb-4c5c-8a05-08dd91c86b4d",
+      "target": "7fb7ddfa-1bd7-42d2-a546-1fe0399b038a"
+    },
+    {
+      "id": "811cf2ac-5378-47ef-b042-44e5c12875a0",
+      "type": "istar.AndRefinementLink",
+      "source": "7fb7ddfa-1bd7-42d2-a546-1fe0399b038a",
+      "target": "1b2df111-ed74-4195-a177-0d6bb9c9c9bb"
+    },
+    {
+      "id": "65296b1f-d948-4acc-acc9-6b6d54a1e2ec",
+      "type": "istar.NeededByLink",
+      "source": "ae5d8c6a-146d-41bb-8f4c-ba56f8c51dab",
+      "target": "5fcb30a6-299a-44ec-8de7-2c859e00e690"
+    },
+    {
+      "id": "474efb44-7c47-47a2-b035-5619d08765bb",
+      "type": "istar.DependencyLink",
+      "source": "111f9f3d-1264-4156-bf9c-e0eb9ad1bda8",
+      "target": "0eb30a9f-0350-44d2-b493-3043a69fb13f"
+    },
+    {
+      "id": "4e7df7e8-a670-484f-b929-56bc3bbc374a",
+      "type": "istar.DependencyLink",
+      "source": "0eb30a9f-0350-44d2-b493-3043a69fb13f",
+      "target": "32e8c61b-5a7e-4109-8c2b-b6ba576f49b7"
+    },
+    {
+      "id": "7c8d7da1-7990-44fc-ba14-fba64f26d744",
+      "type": "istar.AndRefinementLink",
+      "source": "3673716c-6dc4-4fd4-917b-44de609d6354",
+      "target": "687ade64-0adb-4c5c-8a05-08dd91c86b4d"
+    },
+    {
+      "id": "08acc3c5-630b-4460-81bd-e0750d465762",
+      "type": "istar.DependencyLink",
+      "source": "ae5d8c6a-146d-41bb-8f4c-ba56f8c51dab",
+      "target": "adce0372-13c6-4698-aca3-1ed106ed2599"
+    },
+    {
+      "id": "8d09dd57-26d1-4b9a-ba8d-fe743bc18923",
+      "type": "istar.DependencyLink",
+      "source": "adce0372-13c6-4698-aca3-1ed106ed2599",
+      "target": "3673716c-6dc4-4fd4-917b-44de609d6354"
+    },
+    {
+      "id": "73d78c8b-3f9b-4a74-8d5d-8c58f4388cc4",
+      "type": "istar.AndRefinementLink",
+      "source": "3f169846-7a32-4a46-a0b3-f315252dcb98",
+      "target": "32e8c61b-5a7e-4109-8c2b-b6ba576f49b7"
+    },
+    {
+      "id": "c0553eec-9873-423b-86b4-a6554a6e8d4f",
+      "type": "istar.NeededByLink",
+      "source": "83eef260-eebd-4833-87f6-54c06f2aa947",
+      "target": "3f169846-7a32-4a46-a0b3-f315252dcb98"
+    },
+    {
+      "id": "d68259a4-c9d3-4ca2-bbae-90305d36da53",
+      "type": "istar.DependencyLink",
+      "source": "83eef260-eebd-4833-87f6-54c06f2aa947",
+      "target": "fa1fa7a5-d847-48f5-89c3-23d888e01879"
+    },
+    {
+      "id": "777f4e86-7aeb-49fa-bbd7-189ec9be0687",
+      "type": "istar.DependencyLink",
+      "source": "fa1fa7a5-d847-48f5-89c3-23d888e01879",
+      "target": "5477d24e-c1c7-4032-9efb-2c6492f0aca3"
+    },
+    {
+      "id": "3297b5f3-63bb-4a39-99a4-2d46bc58bb22",
+      "type": "istar.DependencyLink",
+      "source": "5477d24e-c1c7-4032-9efb-2c6492f0aca3",
+      "target": "d9ef6f49-c1f2-4ff6-95e4-926a02f3a9eb"
+    },
+    {
+      "id": "3ed2883c-0fb7-4f0c-8e52-6bdf8b361216",
+      "type": "istar.DependencyLink",
+      "source": "d9ef6f49-c1f2-4ff6-95e4-926a02f3a9eb",
+      "target": "3f169846-7a32-4a46-a0b3-f315252dcb98"
+    },
+    {
+      "id": "fc46ca5e-7177-44c0-af88-3503ceda2efe",
+      "type": "istar.AndRefinementLink",
+      "source": "5477d24e-c1c7-4032-9efb-2c6492f0aca3",
+      "target": "305c97ac-3897-44d6-bd4f-b2b3559f9e80"
+    },
+    {
+      "id": "83d789b0-c472-40d2-bbc4-8c4d44130cb3",
+      "type": "istar.DependencyLink",
+      "source": "3f169846-7a32-4a46-a0b3-f315252dcb98",
+      "target": "89433fca-030e-4774-a049-beebfc7b0d9f"
+    },
+    {
+      "id": "9aa30de8-bdd6-438d-b107-512ad89e5983",
+      "type": "istar.DependencyLink",
+      "source": "89433fca-030e-4774-a049-beebfc7b0d9f",
+      "target": "8a53e565-5bbc-4bfb-a443-f9fd4d2ab547"
+    },
+    {
+      "id": "c31e4bef-540b-4c2d-a331-5acaab7e9d18",
+      "type": "istar.AndRefinementLink",
+      "source": "8a53e565-5bbc-4bfb-a443-f9fd4d2ab547",
+      "target": "305c97ac-3897-44d6-bd4f-b2b3559f9e80"
+    },
+    {
+      "id": "dbfd3339-8ebb-406f-b606-4f706980fa37",
+      "type": "istar.ParticipatesInLink",
+      "source": "476ffa72-2139-4d31-8ecb-c84d3ca2f4e5",
+      "target": "7de33c51-edc5-432c-9c69-50c1b11bb5ea"
+    },
+    {
+      "id": "260f3fde-bd3c-4ba0-9ca6-573aa835a774",
+      "type": "istar.NeededByLink",
+      "source": "9dbcb749-3a19-482a-a5d2-1e97d4c76714",
+      "target": "5fcb30a6-299a-44ec-8de7-2c859e00e690"
+    },
+    {
+      "id": "358d7c53-f260-4ba1-adad-d609b2529bf2",
+      "type": "istar.NeededByLink",
+      "source": "9dbcb749-3a19-482a-a5d2-1e97d4c76714",
+      "target": "2f1a261c-4ccd-41e1-9a2d-6737d45d8171"
+    },
+    {
+      "id": "6d568abb-c974-4a5c-b5f2-3c78014e1c5b",
+      "type": "istar.AndRefinementLink",
+      "source": "d9188672-30a9-412a-bc35-91fd217ba219",
+      "target": "41714147-0917-4dad-80ea-bc22ef8f42d3"
+    },
+    {
+      "id": "1e13fd3b-456e-418c-af02-96cc3f711f21",
+      "type": "istar.AndRefinementLink",
+      "source": "b84fc93b-d7ab-48a0-8861-6234e7eeeb44",
+      "target": "d9188672-30a9-412a-bc35-91fd217ba219"
+    },
+    {
+      "id": "a7e3b552-1535-4ce7-ae26-aaa53b8cc17c",
+      "type": "istar.ParticipatesInLink",
+      "source": "7853d418-ddd4-4f3c-8e9f-5e34520eb733",
+      "target": "7de33c51-edc5-432c-9c69-50c1b11bb5ea"
+    },
+    {
+      "id": "85562d9e-f25f-40da-83c6-526c1a396ee9",
+      "type": "istar.NeededByLink",
+      "source": "6d3daae1-a98a-4a99-8c38-242897cd6867",
+      "target": "5fcb30a6-299a-44ec-8de7-2c859e00e690"
+    },
+    {
+      "id": "9433ff44-2cd6-4a49-b1a1-266ec99ed2da",
+      "type": "istar.DependencyLink",
+      "source": "6d3daae1-a98a-4a99-8c38-242897cd6867",
+      "target": "fd6b9cd4-3f32-4e36-a320-12156ad929bb"
+    },
+    {
+      "id": "b8586673-9fb4-4073-911d-8133378ff51b",
+      "type": "istar.DependencyLink",
+      "source": "fd6b9cd4-3f32-4e36-a320-12156ad929bb",
+      "target": "b84fc93b-d7ab-48a0-8861-6234e7eeeb44"
+    },
+    {
+      "id": "7d209c06-35a8-4281-9d54-a0bfb90525f0",
+      "type": "istar.DependencyLink",
+      "source": "2f1a261c-4ccd-41e1-9a2d-6737d45d8171",
+      "target": "6c8d4348-934d-47ed-aa02-cdf6f48985cd"
+    },
+    {
+      "id": "9f84450f-d133-4c04-b9dd-97ec31fbbc51",
+      "type": "istar.DependencyLink",
+      "source": "6c8d4348-934d-47ed-aa02-cdf6f48985cd",
+      "target": "a274d49c-d1e5-4a0d-be74-cb4a6f2aaa15"
+    }
+  ],
+  "display": {
+    "fbf8ace5-64af-4d2b-9f03-c5edf0dfb1ba": {
+      "width": 134.75,
+      "height": 41.80000305175781
+    },
+    "687ade64-0adb-4c5c-8a05-08dd91c86b4d": {
+      "width": 171.25,
+      "height": 54.80000305175781
+    },
+    "1b2df111-ed74-4195-a177-0d6bb9c9c9bb": {
+      "width": 99.25,
+      "height": 44.80000305175781
+    },
+    "41714147-0917-4dad-80ea-bc22ef8f42d3": {
+      "width": 121.25,
+      "height": 45.30000305175781
+    },
+    "b84fc93b-d7ab-48a0-8861-6234e7eeeb44": {
+      "width": 102.25,
+      "height": 40.80000305175781
+    },
+    "6c8d4348-934d-47ed-aa02-cdf6f48985cd": {
+      "width": 99.25,
+      "height": 42.80000305175781
+    },
+    "af1bd443-5702-4657-9d1b-1688e51b91a3": {
+      "vertices": [
+        {
+          "x": 720,
+          "y": 674
+        }
+      ]
+    },
+    "7209f10f-3ab3-4464-a4a1-ade558731b7c": {
+      "collapsed": true
+    },
+    "7b9f7291-80d5-404b-85e4-0b3773c38264": {
+      "collapsed": true
+    },
+    "a274d49c-d1e5-4a0d-be74-cb4a6f2aaa15": {
+      "collapsed": true
+    },
+    "f960fb8d-d0f7-4ff8-8db1-afddfb3d7363": {
+      "collapsed": true
+    }
+  },
+  "tool": "pistar.2.0.0",
+  "istar": "2.0",
+  "saveDate": "Mon, 15 Mar 2021 21:24:34 GMT",
+  "diagram": {
+    "width": 2000,
+    "height": 1300,
+    "name": "Welcome Model",
+    "customProperties": {
+      "Description": "Welcome to the piStar tool! This model describe some of the recent improvements in the tool.\n\nFor help using this tool, please check the Help menu above"
+    }
+  }
+}

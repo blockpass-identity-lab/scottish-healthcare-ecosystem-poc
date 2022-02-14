@@ -1,0 +1,1149 @@
+{
+  "actors": [
+    {
+      "id": "0c011d20-52bf-4358-a69d-e354b8829a6d",
+      "text": "Identity Documents",
+      "type": "istar.Agent",
+      "x": 633,
+      "y": 716,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "6e15548d-6e29-4d1e-8964-1db2d2b5104c",
+      "text": "Primary Medical Qaulification",
+      "type": "istar.Agent",
+      "x": 394,
+      "y": 547,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "d97438bb-9a17-43d4-b100-dbcd13c1e41c",
+      "text": "GMC Licence",
+      "type": "istar.Agent",
+      "x": 349,
+      "y": 319,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "text": "Role Assignment",
+      "type": "istar.Agent",
+      "x": 1181,
+      "y": 497,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "b72fcbba-f055-49ec-bfa4-b1d9b77ce7eb",
+      "text": "Immunity Certificate",
+      "type": "istar.Agent",
+      "x": 1483,
+      "y": 765,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "309d8542-2ee4-4003-847d-1a42fa272821",
+      "text": "Right to Work Check",
+      "type": "istar.Agent",
+      "x": 914,
+      "y": 725,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "6c8da6aa-90dd-47d2-848b-47efaeb95a29",
+      "text": "DBS Check",
+      "type": "istar.Agent",
+      "x": 1044,
+      "y": 812,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "2e276dad-219b-424b-ab72-9b63775d8646",
+      "text": "Basic Training Certificate",
+      "type": "istar.Agent",
+      "x": 1349,
+      "y": 787,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "3197eda5-9496-4576-add9-e5d4713e7ba4",
+      "text": "Edinburgh Hosptial",
+      "type": "istar.Actor",
+      "x": 1509,
+      "y": 547,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "29b78cbf-b49d-490c-ba4a-010c4289b7d9",
+      "text": "Scottish Deanery",
+      "type": "istar.Actor",
+      "x": 1320,
+      "y": 1102,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "5e965cae-1ffc-43e3-afb3-75a4cd894c9e",
+      "text": "GMC",
+      "type": "istar.Actor",
+      "x": 109,
+      "y": 407,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "bfcb12f5-e5ba-47ca-8a98-462902500210",
+      "text": "UK Government",
+      "type": "istar.Actor",
+      "x": 250,
+      "y": 833,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "6f030c66-b923-4136-a853-e62e245b4cd2",
+      "text": "NHS Education Scotland",
+      "type": "istar.Actor",
+      "x": 1514,
+      "y": 1002,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "82a96c56-3a0e-402d-b60f-5957698ffb5b",
+      "text": "Edinburgh Medical School",
+      "type": "istar.Actor",
+      "x": 63,
+      "y": 624,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "bc7df9b0-b390-4b5c-b256-6ee2c61d4e7b",
+      "text": "Junior Doctor",
+      "type": "istar.Role",
+      "x": 770,
+      "y": 291,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "5c94a2bb-68e4-4870-86e9-7999e846a07a",
+      "text": "NHS Lothian",
+      "type": "istar.Actor",
+      "x": 1685,
+      "y": 665,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "133f91cb-abd0-45be-b2b2-dae1e363882b",
+      "text": "NHS Scotland",
+      "type": "istar.Actor",
+      "x": 1713,
+      "y": 883,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "d605b2cc-2721-4c90-8fb1-b88a3da28a22",
+      "text": "Medic",
+      "type": "istar.Role",
+      "x": 117,
+      "y": 782,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "1b4eaed9-f504-4835-a4dc-bb4ae81307c3",
+      "text": "Access Credential",
+      "type": "istar.Agent",
+      "x": 1425,
+      "y": 273,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "f4352ec5-4e18-4f9e-b81d-1b249812fac4",
+      "text": "Hosptial Employee",
+      "type": "istar.Role",
+      "x": 957,
+      "y": 298,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "5abf8a42-c565-418c-92e9-73fc892488f4",
+      "text": "British Citizen",
+      "type": "istar.Role",
+      "x": 321,
+      "y": 1020,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "d771b7a6-2f7f-475b-be18-2887528f37d0",
+      "text": "Human Being",
+      "type": "istar.Role",
+      "x": 448,
+      "y": 1074,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "075c6616-fee5-4863-a4c6-d53ae3a727d3",
+      "text": "Scottish Resident",
+      "type": "istar.Role",
+      "x": 616,
+      "y": 975,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "61bd8453-0c3c-4c29-9eb5-82481f3b13cb",
+      "text": "Proof of Addres",
+      "type": "istar.Agent",
+      "x": 944,
+      "y": 1095,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "b86ce259-4e79-41f0-8823-bac0c59de03c",
+      "text": "Edinburgh Council",
+      "type": "istar.Actor",
+      "x": 552,
+      "y": 1175,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    }
+  ],
+  "orphans": [],
+  "dependencies": [
+    {
+      "id": "323d21c6-4d32-456c-b918-8d5f276ebf93",
+      "text": "PMQ",
+      "type": "istar.Resource",
+      "x": 341,
+      "y": 447,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "d97438bb-9a17-43d4-b100-dbcd13c1e41c",
+      "target": "6e15548d-6e29-4d1e-8964-1db2d2b5104c"
+    },
+    {
+      "id": "1034913d-1a86-4924-9d3a-e54958951ce9",
+      "text": "Identity Documents",
+      "type": "istar.Resource",
+      "x": 375,
+      "y": 693,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "6e15548d-6e29-4d1e-8964-1db2d2b5104c",
+      "target": "0c011d20-52bf-4358-a69d-e354b8829a6d"
+    },
+    {
+      "id": "147cacf2-5c53-4cd7-9208-e6e79037576b",
+      "text": "Identity Documents",
+      "type": "istar.Resource",
+      "x": 519,
+      "y": 529,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "d97438bb-9a17-43d4-b100-dbcd13c1e41c",
+      "target": "0c011d20-52bf-4358-a69d-e354b8829a6d"
+    },
+    {
+      "id": "c6bc2575-07a2-4610-a1c2-91fc45ff0214",
+      "text": "Right to Work Check",
+      "type": "istar.Resource",
+      "x": 1022,
+      "y": 606,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "309d8542-2ee4-4003-847d-1a42fa272821"
+    },
+    {
+      "id": "f1e08386-9820-419a-8fe9-3422d922847e",
+      "text": "Immunity Cerficate",
+      "type": "istar.Resource",
+      "x": 1301,
+      "y": 663,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "b72fcbba-f055-49ec-bfa4-b1d9b77ce7eb"
+    },
+    {
+      "id": "7fffe435-16b0-4aca-bf13-d8a01b9404cf",
+      "text": "Basic Training Certificate",
+      "type": "istar.Resource",
+      "x": 1194,
+      "y": 674,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "2e276dad-219b-424b-ab72-9b63775d8646"
+    },
+    {
+      "id": "cea7379d-1ed3-45c6-be5e-72ae33dfbd14",
+      "text": "DBS Check",
+      "type": "istar.Resource",
+      "x": 1089,
+      "y": 679,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "6c8da6aa-90dd-47d2-848b-47efaeb95a29"
+    },
+    {
+      "id": "e76f9b0f-4045-4ee3-a984-277fffcbd55d",
+      "text": "Identity Documents",
+      "type": "istar.Resource",
+      "x": 748,
+      "y": 750,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "309d8542-2ee4-4003-847d-1a42fa272821",
+      "target": "0c011d20-52bf-4358-a69d-e354b8829a6d"
+    },
+    {
+      "id": "764aa44d-6dad-43b6-a4a6-018005e47670",
+      "text": "Identity Documents",
+      "type": "istar.Resource",
+      "x": 683,
+      "y": 857,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "6c8da6aa-90dd-47d2-848b-47efaeb95a29",
+      "target": "0c011d20-52bf-4358-a69d-e354b8829a6d"
+    },
+    {
+      "id": "77f5e1fe-9cc4-4ccf-a4f1-5dae3827cf5a",
+      "text": "Identity Documents",
+      "type": "istar.Resource",
+      "x": 861,
+      "y": 597,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "0c011d20-52bf-4358-a69d-e354b8829a6d"
+    },
+    {
+      "id": "aedbb713-af63-45bc-85f1-f1e6ac1161c7",
+      "text": "Complete DBS Checks",
+      "type": "istar.Task",
+      "x": 1051,
+      "y": 936,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "6c8da6aa-90dd-47d2-848b-47efaeb95a29",
+      "target": "29b78cbf-b49d-490c-ba4a-010c4289b7d9"
+    },
+    {
+      "id": "dfdf73d0-b6a5-43aa-afe0-107a8c41c951",
+      "text": "Issue Role Assignments",
+      "type": "istar.Task",
+      "x": 1309,
+      "y": 581,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "3197eda5-9496-4576-add9-e5d4713e7ba4"
+    },
+    {
+      "id": "179e2251-e559-42bc-86b3-8c9321b1987e",
+      "text": "Issue GMC Licences",
+      "type": "istar.Task",
+      "x": 144,
+      "y": 277,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "d97438bb-9a17-43d4-b100-dbcd13c1e41c",
+      "target": "5e965cae-1ffc-43e3-afb3-75a4cd894c9e"
+    },
+    {
+      "id": "5f765d68-877a-45ff-9b74-960e6d58abe0",
+      "text": "Issue PMQ",
+      "type": "istar.Task",
+      "x": 179,
+      "y": 551,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "6e15548d-6e29-4d1e-8964-1db2d2b5104c",
+      "target": "82a96c56-3a0e-402d-b60f-5957698ffb5b"
+    },
+    {
+      "id": "9462894e-3b95-40a3-bcad-7ee4a0c469b1",
+      "text": "Issue Identity Documents",
+      "type": "istar.Task",
+      "x": 362,
+      "y": 789,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "0c011d20-52bf-4358-a69d-e354b8829a6d",
+      "target": "bfcb12f5-e5ba-47ca-8a98-462902500210"
+    },
+    {
+      "id": "d080f285-192e-456e-9c36-8cb5b6e9a271",
+      "text": "Complete Right to Work Checks",
+      "type": "istar.Task",
+      "x": 1005,
+      "y": 1012,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "309d8542-2ee4-4003-847d-1a42fa272821",
+      "target": "29b78cbf-b49d-490c-ba4a-010c4289b7d9"
+    },
+    {
+      "id": "4b72ee17-39a7-41fd-983b-e5d702825691",
+      "text": "Issue Basic Training Certificates",
+      "type": "istar.Task",
+      "x": 1188,
+      "y": 843,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "2e276dad-219b-424b-ab72-9b63775d8646",
+      "target": "29b78cbf-b49d-490c-ba4a-010c4289b7d9"
+    },
+    {
+      "id": "e6b612d4-a82f-4db4-b45d-a05ab44b3e50",
+      "text": "Complete Medical Education",
+      "type": "istar.Goal",
+      "x": 210,
+      "y": 647,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "d605b2cc-2721-4c90-8fb1-b88a3da28a22",
+      "target": "6e15548d-6e29-4d1e-8964-1db2d2b5104c"
+    },
+    {
+      "id": "7877977f-1efe-4e54-b0f7-d757bc7d599e",
+      "text": "Issue Access Credentials",
+      "type": "istar.Task",
+      "x": 1523,
+      "y": 412,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "1b4eaed9-f504-4835-a4dc-bb4ae81307c3",
+      "target": "3197eda5-9496-4576-add9-e5d4713e7ba4"
+    },
+    {
+      "id": "e32df631-388b-4b72-8aa1-bba6f5cb11c6",
+      "text": "Be a Licenced Doctor in the UK",
+      "type": "istar.Goal",
+      "x": 528,
+      "y": 297,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "bc7df9b0-b390-4b5c-b256-6ee2c61d4e7b",
+      "target": "d97438bb-9a17-43d4-b100-dbcd13c1e41c"
+    },
+    {
+      "id": "c174ec31-c161-4f9d-bb3f-3645fe36adbc",
+      "text": "Access Hospital Digital Systems",
+      "type": "istar.Task",
+      "x": 1138,
+      "y": 286,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "f4352ec5-4e18-4f9e-b81d-1b249812fac4",
+      "target": "1b4eaed9-f504-4835-a4dc-bb4ae81307c3"
+    },
+    {
+      "id": "a5bc7b8d-9760-43b4-973c-f5d3768211ba",
+      "text": "Issue Immunity Certificates",
+      "type": "istar.Task",
+      "x": 1354,
+      "y": 895,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "b72fcbba-f055-49ec-bfa4-b1d9b77ce7eb",
+      "target": "29b78cbf-b49d-490c-ba4a-010c4289b7d9"
+    },
+    {
+      "id": "76113c35-e900-4f5d-9d81-e4a5e6a77953",
+      "text": "Maintain Identity Documentation",
+      "type": "istar.Task",
+      "x": 472,
+      "y": 861,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "5abf8a42-c565-418c-92e9-73fc892488f4",
+      "target": "0c011d20-52bf-4358-a69d-e354b8829a6d"
+    },
+    {
+      "id": "39e143be-2bc2-4cdf-bc7e-c804e88aec03",
+      "text": "Get Healthcare Role",
+      "type": "istar.Goal",
+      "x": 1007,
+      "y": 426,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "f4352ec5-4e18-4f9e-b81d-1b249812fac4",
+      "target": "97671a72-8cb4-45a2-98ec-8c5662073367"
+    },
+    {
+      "id": "fbbc7c51-7ee0-483c-84a4-948d4e04a966",
+      "text": "Proof of Address",
+      "type": "istar.Resource",
+      "x": 850,
+      "y": 932,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "309d8542-2ee4-4003-847d-1a42fa272821",
+      "target": "61bd8453-0c3c-4c29-9eb5-82481f3b13cb"
+    },
+    {
+      "id": "50db3584-0333-484e-aee4-e31650d7228a",
+      "text": "Issue Proofs of Address",
+      "type": "istar.Task",
+      "x": 718,
+      "y": 1161,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "61bd8453-0c3c-4c29-9eb5-82481f3b13cb",
+      "target": "b86ce259-4e79-41f0-8823-bac0c59de03c"
+    },
+    {
+      "id": "958882d1-82a7-4760-bdd3-4801e0e55e36",
+      "text": "Obtain Proof of Address",
+      "type": "istar.Task",
+      "x": 750,
+      "y": 1005,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "075c6616-fee5-4863-a4c6-d53ae3a727d3",
+      "target": "61bd8453-0c3c-4c29-9eb5-82481f3b13cb"
+    },
+    {
+      "id": "d37baa9f-84cf-46ea-85e1-322c07dd29ee",
+      "text": "GMC Licence",
+      "type": "istar.Resource",
+      "x": 764,
+      "y": 480,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "d97438bb-9a17-43d4-b100-dbcd13c1e41c"
+    }
+  ],
+  "links": [
+    {
+      "id": "67043f00-024b-426e-b61d-4458c5002516",
+      "type": "istar.DependencyLink",
+      "source": "d97438bb-9a17-43d4-b100-dbcd13c1e41c",
+      "target": "323d21c6-4d32-456c-b918-8d5f276ebf93"
+    },
+    {
+      "id": "7ba8f50d-e212-4b6c-ab06-fab1fb3743ba",
+      "type": "istar.DependencyLink",
+      "source": "323d21c6-4d32-456c-b918-8d5f276ebf93",
+      "target": "6e15548d-6e29-4d1e-8964-1db2d2b5104c"
+    },
+    {
+      "id": "4a5d479a-51cc-42aa-8995-24e4bb00ccfe",
+      "type": "istar.DependencyLink",
+      "source": "6e15548d-6e29-4d1e-8964-1db2d2b5104c",
+      "target": "1034913d-1a86-4924-9d3a-e54958951ce9"
+    },
+    {
+      "id": "6a2b8b47-f474-4914-b631-6c8c36c4b3c3",
+      "type": "istar.DependencyLink",
+      "source": "1034913d-1a86-4924-9d3a-e54958951ce9",
+      "target": "0c011d20-52bf-4358-a69d-e354b8829a6d"
+    },
+    {
+      "id": "7f0fdc94-7406-479d-8ef9-cebc36525516",
+      "type": "istar.DependencyLink",
+      "source": "d97438bb-9a17-43d4-b100-dbcd13c1e41c",
+      "target": "147cacf2-5c53-4cd7-9208-e6e79037576b"
+    },
+    {
+      "id": "ae64f321-2cb5-463a-bb08-cf50798a4949",
+      "type": "istar.DependencyLink",
+      "source": "147cacf2-5c53-4cd7-9208-e6e79037576b",
+      "target": "0c011d20-52bf-4358-a69d-e354b8829a6d"
+    },
+    {
+      "id": "9e9b5228-c4d8-4243-8d6a-ed39c64f2183",
+      "type": "istar.DependencyLink",
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "c6bc2575-07a2-4610-a1c2-91fc45ff0214"
+    },
+    {
+      "id": "08c7f86a-bc95-4007-865f-5822af5f62f9",
+      "type": "istar.DependencyLink",
+      "source": "c6bc2575-07a2-4610-a1c2-91fc45ff0214",
+      "target": "309d8542-2ee4-4003-847d-1a42fa272821"
+    },
+    {
+      "id": "33185c9b-2a07-41f8-8f46-3c69823e3287",
+      "type": "istar.DependencyLink",
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "f1e08386-9820-419a-8fe9-3422d922847e"
+    },
+    {
+      "id": "c3ed3615-220d-4a7d-adec-b03b8b41e1ca",
+      "type": "istar.DependencyLink",
+      "source": "f1e08386-9820-419a-8fe9-3422d922847e",
+      "target": "b72fcbba-f055-49ec-bfa4-b1d9b77ce7eb"
+    },
+    {
+      "id": "c5fe42e7-622d-45ea-bfed-c17b9482185b",
+      "type": "istar.DependencyLink",
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "7fffe435-16b0-4aca-bf13-d8a01b9404cf"
+    },
+    {
+      "id": "8bf5112e-1828-4eea-a866-4a67a75d4918",
+      "type": "istar.DependencyLink",
+      "source": "7fffe435-16b0-4aca-bf13-d8a01b9404cf",
+      "target": "2e276dad-219b-424b-ab72-9b63775d8646"
+    },
+    {
+      "id": "6b306932-293f-4565-89b0-e2f42fb0149f",
+      "type": "istar.DependencyLink",
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "cea7379d-1ed3-45c6-be5e-72ae33dfbd14"
+    },
+    {
+      "id": "2dbc817b-67b6-4a27-8305-97399f95985c",
+      "type": "istar.DependencyLink",
+      "source": "cea7379d-1ed3-45c6-be5e-72ae33dfbd14",
+      "target": "6c8da6aa-90dd-47d2-848b-47efaeb95a29"
+    },
+    {
+      "id": "d67df178-094a-40e7-87b3-ce9b9b2f1f8a",
+      "type": "istar.DependencyLink",
+      "source": "309d8542-2ee4-4003-847d-1a42fa272821",
+      "target": "e76f9b0f-4045-4ee3-a984-277fffcbd55d"
+    },
+    {
+      "id": "c0f67dfb-ad7a-45c7-b168-523e2a66462e",
+      "type": "istar.DependencyLink",
+      "source": "e76f9b0f-4045-4ee3-a984-277fffcbd55d",
+      "target": "0c011d20-52bf-4358-a69d-e354b8829a6d"
+    },
+    {
+      "id": "401a92bc-7cb8-40fc-a9cd-2d5b56020d64",
+      "type": "istar.DependencyLink",
+      "source": "6c8da6aa-90dd-47d2-848b-47efaeb95a29",
+      "target": "764aa44d-6dad-43b6-a4a6-018005e47670"
+    },
+    {
+      "id": "3a24c464-367a-43b2-880c-778582bb55fc",
+      "type": "istar.DependencyLink",
+      "source": "764aa44d-6dad-43b6-a4a6-018005e47670",
+      "target": "0c011d20-52bf-4358-a69d-e354b8829a6d"
+    },
+    {
+      "id": "e0cd97f8-2341-4d4a-8925-1d0996433a87",
+      "type": "istar.DependencyLink",
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "77f5e1fe-9cc4-4ccf-a4f1-5dae3827cf5a"
+    },
+    {
+      "id": "196894d0-e820-4989-9322-257a8e7eccb3",
+      "type": "istar.DependencyLink",
+      "source": "77f5e1fe-9cc4-4ccf-a4f1-5dae3827cf5a",
+      "target": "0c011d20-52bf-4358-a69d-e354b8829a6d"
+    },
+    {
+      "id": "79b74c39-688e-4a94-9f1f-57b71ebe8815",
+      "type": "istar.DependencyLink",
+      "source": "6c8da6aa-90dd-47d2-848b-47efaeb95a29",
+      "target": "aedbb713-af63-45bc-85f1-f1e6ac1161c7"
+    },
+    {
+      "id": "60043029-bbc0-4801-a781-13e3efa4d84d",
+      "type": "istar.DependencyLink",
+      "source": "aedbb713-af63-45bc-85f1-f1e6ac1161c7",
+      "target": "29b78cbf-b49d-490c-ba4a-010c4289b7d9"
+    },
+    {
+      "id": "a765402a-f15b-42f2-ae1a-58a27f772174",
+      "type": "istar.DependencyLink",
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "dfdf73d0-b6a5-43aa-afe0-107a8c41c951"
+    },
+    {
+      "id": "dc93e58d-1d3e-4e92-ba44-e74d7f83a653",
+      "type": "istar.DependencyLink",
+      "source": "dfdf73d0-b6a5-43aa-afe0-107a8c41c951",
+      "target": "3197eda5-9496-4576-add9-e5d4713e7ba4"
+    },
+    {
+      "id": "cf310d20-e6c5-4700-bd54-9e9b06ccf210",
+      "type": "istar.DependencyLink",
+      "source": "d97438bb-9a17-43d4-b100-dbcd13c1e41c",
+      "target": "179e2251-e559-42bc-86b3-8c9321b1987e"
+    },
+    {
+      "id": "bcbbd696-0838-4d6a-83a5-fe84d275c630",
+      "type": "istar.DependencyLink",
+      "source": "179e2251-e559-42bc-86b3-8c9321b1987e",
+      "target": "5e965cae-1ffc-43e3-afb3-75a4cd894c9e"
+    },
+    {
+      "id": "bded8e9a-721d-4c39-8a0b-8311cb39d07a",
+      "type": "istar.DependencyLink",
+      "source": "6e15548d-6e29-4d1e-8964-1db2d2b5104c",
+      "target": "5f765d68-877a-45ff-9b74-960e6d58abe0"
+    },
+    {
+      "id": "b78c3150-ad1f-4b23-94ca-b6ef384fc43e",
+      "type": "istar.DependencyLink",
+      "source": "5f765d68-877a-45ff-9b74-960e6d58abe0",
+      "target": "82a96c56-3a0e-402d-b60f-5957698ffb5b"
+    },
+    {
+      "id": "2f999a58-0918-4496-ac60-6405776098ed",
+      "type": "istar.DependencyLink",
+      "source": "0c011d20-52bf-4358-a69d-e354b8829a6d",
+      "target": "9462894e-3b95-40a3-bcad-7ee4a0c469b1"
+    },
+    {
+      "id": "e607e605-f6f0-467e-b05e-456740b2afee",
+      "type": "istar.DependencyLink",
+      "source": "9462894e-3b95-40a3-bcad-7ee4a0c469b1",
+      "target": "bfcb12f5-e5ba-47ca-8a98-462902500210"
+    },
+    {
+      "id": "dcd01042-a3bd-40e3-a82a-508e11c3f15b",
+      "type": "istar.DependencyLink",
+      "source": "309d8542-2ee4-4003-847d-1a42fa272821",
+      "target": "d080f285-192e-456e-9c36-8cb5b6e9a271"
+    },
+    {
+      "id": "f2e05f09-a61d-42e8-93ae-fc321509ed6c",
+      "type": "istar.DependencyLink",
+      "source": "d080f285-192e-456e-9c36-8cb5b6e9a271",
+      "target": "29b78cbf-b49d-490c-ba4a-010c4289b7d9"
+    },
+    {
+      "id": "c3a5b4da-52d1-4c62-874c-9ad20cef5935",
+      "type": "istar.DependencyLink",
+      "source": "2e276dad-219b-424b-ab72-9b63775d8646",
+      "target": "4b72ee17-39a7-41fd-983b-e5d702825691"
+    },
+    {
+      "id": "0abfe24e-557c-43a5-954e-4336b585c006",
+      "type": "istar.DependencyLink",
+      "source": "4b72ee17-39a7-41fd-983b-e5d702825691",
+      "target": "29b78cbf-b49d-490c-ba4a-010c4289b7d9"
+    },
+    {
+      "id": "b51ae213-7934-4b62-a5a7-992a600f9ae9",
+      "type": "istar.DependencyLink",
+      "source": "d605b2cc-2721-4c90-8fb1-b88a3da28a22",
+      "target": "e6b612d4-a82f-4db4-b45d-a05ab44b3e50"
+    },
+    {
+      "id": "5e8aaf07-dcbb-4ce1-812c-9b3f84b3958a",
+      "type": "istar.DependencyLink",
+      "source": "e6b612d4-a82f-4db4-b45d-a05ab44b3e50",
+      "target": "6e15548d-6e29-4d1e-8964-1db2d2b5104c"
+    },
+    {
+      "id": "fc116c62-e3ca-40ed-97a8-4bf7f2b327a5",
+      "type": "istar.DependencyLink",
+      "source": "1b4eaed9-f504-4835-a4dc-bb4ae81307c3",
+      "target": "7877977f-1efe-4e54-b0f7-d757bc7d599e"
+    },
+    {
+      "id": "5b7e24a9-05d0-400a-868c-19d00340a1cf",
+      "type": "istar.DependencyLink",
+      "source": "7877977f-1efe-4e54-b0f7-d757bc7d599e",
+      "target": "3197eda5-9496-4576-add9-e5d4713e7ba4"
+    },
+    {
+      "id": "fe3f9459-5cba-4f48-a719-f96e5afcc2f5",
+      "type": "istar.DependencyLink",
+      "source": "bc7df9b0-b390-4b5c-b256-6ee2c61d4e7b",
+      "target": "e32df631-388b-4b72-8aa1-bba6f5cb11c6"
+    },
+    {
+      "id": "417aa1d8-ffce-4cf3-beb0-c675a4893b81",
+      "type": "istar.DependencyLink",
+      "source": "e32df631-388b-4b72-8aa1-bba6f5cb11c6",
+      "target": "d97438bb-9a17-43d4-b100-dbcd13c1e41c"
+    },
+    {
+      "id": "6a21c483-8cb1-4c40-b10f-0bbde8361629",
+      "type": "istar.DependencyLink",
+      "source": "f4352ec5-4e18-4f9e-b81d-1b249812fac4",
+      "target": "c174ec31-c161-4f9d-bb3f-3645fe36adbc"
+    },
+    {
+      "id": "91f5bd89-ec99-4b4f-b99f-844c7e56c249",
+      "type": "istar.DependencyLink",
+      "source": "c174ec31-c161-4f9d-bb3f-3645fe36adbc",
+      "target": "1b4eaed9-f504-4835-a4dc-bb4ae81307c3"
+    },
+    {
+      "id": "0ee68311-656b-41c0-a843-8071eb3d031a",
+      "type": "istar.DependencyLink",
+      "source": "b72fcbba-f055-49ec-bfa4-b1d9b77ce7eb",
+      "target": "a5bc7b8d-9760-43b4-973c-f5d3768211ba"
+    },
+    {
+      "id": "24cbc799-9d6f-4a98-ac8a-2a31d9b5caf4",
+      "type": "istar.DependencyLink",
+      "source": "a5bc7b8d-9760-43b4-973c-f5d3768211ba",
+      "target": "29b78cbf-b49d-490c-ba4a-010c4289b7d9"
+    },
+    {
+      "id": "8dcc3427-40db-4d2e-ae79-7068e6fd87ee",
+      "type": "istar.DependencyLink",
+      "source": "5abf8a42-c565-418c-92e9-73fc892488f4",
+      "target": "76113c35-e900-4f5d-9d81-e4a5e6a77953"
+    },
+    {
+      "id": "31810997-35bd-4e96-a393-4bf308229243",
+      "type": "istar.DependencyLink",
+      "source": "76113c35-e900-4f5d-9d81-e4a5e6a77953",
+      "target": "0c011d20-52bf-4358-a69d-e354b8829a6d"
+    },
+    {
+      "id": "1e72d9ba-12bf-4adf-ab62-efb21f818a82",
+      "type": "istar.DependencyLink",
+      "source": "f4352ec5-4e18-4f9e-b81d-1b249812fac4",
+      "target": "39e143be-2bc2-4cdf-bc7e-c804e88aec03"
+    },
+    {
+      "id": "e05d2177-687d-4461-95ac-4854cfbd6e21",
+      "type": "istar.DependencyLink",
+      "source": "39e143be-2bc2-4cdf-bc7e-c804e88aec03",
+      "target": "97671a72-8cb4-45a2-98ec-8c5662073367"
+    },
+    {
+      "id": "bf5ab578-b9f8-44f7-9867-97287fdad60d",
+      "type": "istar.DependencyLink",
+      "source": "309d8542-2ee4-4003-847d-1a42fa272821",
+      "target": "fbbc7c51-7ee0-483c-84a4-948d4e04a966"
+    },
+    {
+      "id": "cfa6f5a8-2f23-477a-967f-a9c81eda3576",
+      "type": "istar.DependencyLink",
+      "source": "fbbc7c51-7ee0-483c-84a4-948d4e04a966",
+      "target": "61bd8453-0c3c-4c29-9eb5-82481f3b13cb"
+    },
+    {
+      "id": "ef8e0cc7-b589-4dc2-a7c1-79a36f1fc469",
+      "type": "istar.DependencyLink",
+      "source": "61bd8453-0c3c-4c29-9eb5-82481f3b13cb",
+      "target": "50db3584-0333-484e-aee4-e31650d7228a"
+    },
+    {
+      "id": "0405711e-5f3e-4645-a97b-d8e0fbfe12c3",
+      "type": "istar.DependencyLink",
+      "source": "50db3584-0333-484e-aee4-e31650d7228a",
+      "target": "b86ce259-4e79-41f0-8823-bac0c59de03c"
+    },
+    {
+      "id": "aab15902-2a2d-4710-a1f7-24129a0f0058",
+      "type": "istar.DependencyLink",
+      "source": "075c6616-fee5-4863-a4c6-d53ae3a727d3",
+      "target": "958882d1-82a7-4760-bdd3-4801e0e55e36"
+    },
+    {
+      "id": "581fd08e-4fe1-43f7-b7f3-2058fc196000",
+      "type": "istar.DependencyLink",
+      "source": "958882d1-82a7-4760-bdd3-4801e0e55e36",
+      "target": "61bd8453-0c3c-4c29-9eb5-82481f3b13cb"
+    },
+    {
+      "id": "6560a73d-4b5b-4530-a6fe-6498b1e5fefb",
+      "type": "istar.DependencyLink",
+      "source": "97671a72-8cb4-45a2-98ec-8c5662073367",
+      "target": "d37baa9f-84cf-46ea-85e1-322c07dd29ee"
+    },
+    {
+      "id": "4fb23f20-efa8-42dd-885b-6dade6af2c99",
+      "type": "istar.DependencyLink",
+      "source": "d37baa9f-84cf-46ea-85e1-322c07dd29ee",
+      "target": "d97438bb-9a17-43d4-b100-dbcd13c1e41c"
+    },
+    {
+      "id": "f2a34cec-cae8-49e5-a087-a96f6a86079c",
+      "type": "istar.ParticipatesInLink",
+      "source": "6f030c66-b923-4136-a853-e62e245b4cd2",
+      "target": "133f91cb-abd0-45be-b2b2-dae1e363882b"
+    },
+    {
+      "id": "a38725e0-3a85-4339-b96d-376b87a0ede1",
+      "type": "istar.ParticipatesInLink",
+      "source": "3197eda5-9496-4576-add9-e5d4713e7ba4",
+      "target": "5c94a2bb-68e4-4870-86e9-7999e846a07a"
+    },
+    {
+      "id": "92378af9-f2b4-4d60-9d47-927779c6e2cf",
+      "type": "istar.ParticipatesInLink",
+      "source": "5c94a2bb-68e4-4870-86e9-7999e846a07a",
+      "target": "133f91cb-abd0-45be-b2b2-dae1e363882b"
+    },
+    {
+      "id": "54c174fa-1c4f-45f6-8be0-48803bb5e624",
+      "type": "istar.ParticipatesInLink",
+      "source": "29b78cbf-b49d-490c-ba4a-010c4289b7d9",
+      "target": "6f030c66-b923-4136-a853-e62e245b4cd2"
+    },
+    {
+      "id": "c955acb2-ceed-48db-b1ad-3622875768fd",
+      "type": "istar.IsALink",
+      "source": "f4352ec5-4e18-4f9e-b81d-1b249812fac4",
+      "target": "bc7df9b0-b390-4b5c-b256-6ee2c61d4e7b"
+    },
+    {
+      "id": "f26965a6-1b34-4a65-bf28-f33e8f9edf67",
+      "type": "istar.ParticipatesInLink",
+      "source": "f4352ec5-4e18-4f9e-b81d-1b249812fac4",
+      "target": "3197eda5-9496-4576-add9-e5d4713e7ba4"
+    },
+    {
+      "id": "e5f7eed5-5265-4e27-894b-8e99c9e04b55",
+      "type": "istar.IsALink",
+      "source": "bc7df9b0-b390-4b5c-b256-6ee2c61d4e7b",
+      "target": "5abf8a42-c565-418c-92e9-73fc892488f4"
+    },
+    {
+      "id": "5486c4e2-f06e-41aa-936f-6574890538ae",
+      "type": "istar.IsALink",
+      "source": "d605b2cc-2721-4c90-8fb1-b88a3da28a22",
+      "target": "5abf8a42-c565-418c-92e9-73fc892488f4"
+    },
+    {
+      "id": "9c1d4a5d-1a06-439d-a898-8a26afa28436",
+      "type": "istar.IsALink",
+      "source": "5abf8a42-c565-418c-92e9-73fc892488f4",
+      "target": "d771b7a6-2f7f-475b-be18-2887528f37d0"
+    },
+    {
+      "id": "9c71ac0e-da78-49ef-88b9-b0e89d71c8f7",
+      "type": "istar.IsALink",
+      "source": "075c6616-fee5-4863-a4c6-d53ae3a727d3",
+      "target": "d771b7a6-2f7f-475b-be18-2887528f37d0"
+    },
+    {
+      "id": "8ae37060-5cc4-4da1-a693-a747c13c4df0",
+      "type": "istar.ParticipatesInLink",
+      "source": "bc7df9b0-b390-4b5c-b256-6ee2c61d4e7b",
+      "target": "29b78cbf-b49d-490c-ba4a-010c4289b7d9"
+    }
+  ],
+  "display": {
+    "0c011d20-52bf-4358-a69d-e354b8829a6d": {
+      "collapsed": true
+    },
+    "6e15548d-6e29-4d1e-8964-1db2d2b5104c": {
+      "collapsed": true
+    },
+    "d97438bb-9a17-43d4-b100-dbcd13c1e41c": {
+      "collapsed": true
+    },
+    "97671a72-8cb4-45a2-98ec-8c5662073367": {
+      "collapsed": true
+    },
+    "b72fcbba-f055-49ec-bfa4-b1d9b77ce7eb": {
+      "collapsed": true
+    },
+    "309d8542-2ee4-4003-847d-1a42fa272821": {
+      "collapsed": true
+    },
+    "6c8da6aa-90dd-47d2-848b-47efaeb95a29": {
+      "collapsed": true
+    },
+    "2e276dad-219b-424b-ab72-9b63775d8646": {
+      "collapsed": true
+    },
+    "3197eda5-9496-4576-add9-e5d4713e7ba4": {
+      "collapsed": true
+    },
+    "29b78cbf-b49d-490c-ba4a-010c4289b7d9": {
+      "collapsed": true
+    },
+    "5e965cae-1ffc-43e3-afb3-75a4cd894c9e": {
+      "collapsed": true
+    },
+    "bfcb12f5-e5ba-47ca-8a98-462902500210": {
+      "collapsed": true
+    },
+    "6f030c66-b923-4136-a853-e62e245b4cd2": {
+      "collapsed": true
+    },
+    "82a96c56-3a0e-402d-b60f-5957698ffb5b": {
+      "collapsed": true
+    },
+    "bc7df9b0-b390-4b5c-b256-6ee2c61d4e7b": {
+      "collapsed": true
+    },
+    "5c94a2bb-68e4-4870-86e9-7999e846a07a": {
+      "collapsed": true
+    },
+    "133f91cb-abd0-45be-b2b2-dae1e363882b": {
+      "collapsed": true
+    },
+    "d605b2cc-2721-4c90-8fb1-b88a3da28a22": {
+      "collapsed": true
+    },
+    "1b4eaed9-f504-4835-a4dc-bb4ae81307c3": {
+      "collapsed": true
+    },
+    "f4352ec5-4e18-4f9e-b81d-1b249812fac4": {
+      "collapsed": true
+    },
+    "5abf8a42-c565-418c-92e9-73fc892488f4": {
+      "collapsed": true
+    },
+    "d771b7a6-2f7f-475b-be18-2887528f37d0": {
+      "collapsed": true
+    },
+    "075c6616-fee5-4863-a4c6-d53ae3a727d3": {
+      "collapsed": true
+    },
+    "61bd8453-0c3c-4c29-9eb5-82481f3b13cb": {
+      "collapsed": true
+    },
+    "b86ce259-4e79-41f0-8823-bac0c59de03c": {
+      "collapsed": true
+    },
+    "d080f285-192e-456e-9c36-8cb5b6e9a271": {
+      "width": 107.5,
+      "height": 50.06666564941406
+    },
+    "4b72ee17-39a7-41fd-983b-e5d702825691": {
+      "width": 96.25,
+      "height": 43.80000305175781
+    },
+    "e6b612d4-a82f-4db4-b45d-a05ab44b3e50": {
+      "width": 103.25,
+      "height": 43.80000305175781
+    },
+    "e32df631-388b-4b72-8aa1-bba6f5cb11c6": {
+      "width": 104.25,
+      "height": 41.80000305175781
+    },
+    "c174ec31-c161-4f9d-bb3f-3645fe36adbc": {
+      "width": 102.25,
+      "height": 45.80000305175781
+    },
+    "a5bc7b8d-9760-43b4-973c-f5d3768211ba": {
+      "width": 106.25,
+      "height": 44.80000305175781
+    },
+    "76113c35-e900-4f5d-9d81-e4a5e6a77953": {
+      "width": 107.25,
+      "height": 48.80000305175781
+    },
+    "39e143be-2bc2-4cdf-bc7e-c804e88aec03": {
+      "width": 98.25,
+      "height": 38.80000305175781
+    },
+    "50db3584-0333-484e-aee4-e31650d7228a": {
+      "width": 101.25,
+      "height": 42.80000305175781
+    },
+    "958882d1-82a7-4760-bdd3-4801e0e55e36": {
+      "width": 103.5,
+      "height": 44.06666564941406
+    }
+  },
+  "tool": "pistar.2.0.0",
+  "istar": "2.0",
+  "saveDate": "Thu, 27 May 2021 13:55:29 GMT",
+  "diagram": {
+    "width": 2000,
+    "height": 1341,
+    "customProperties": {
+      "Description": ""
+    }
+  }
+}

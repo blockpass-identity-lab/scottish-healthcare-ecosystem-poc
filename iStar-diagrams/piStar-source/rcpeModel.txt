@@ -1,0 +1,608 @@
+{
+  "actors": [
+    {
+      "id": "4f093eb7-f8ec-4b7d-b257-2ba0f71e26cd",
+      "text": "Junior Doctor",
+      "type": "istar.Role",
+      "x": 1357,
+      "y": 1091,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "65bce080-390d-4b9b-a40c-b7a4dab3fc5c",
+          "text": "Become Qualified Physician",
+          "type": "istar.Goal",
+          "x": 1513,
+          "y": 1099,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "bf13ac5b-870d-46f3-a68a-d9ca0e4a4091",
+          "text": "Attend RCPE Training",
+          "type": "istar.Task",
+          "x": 1357,
+          "y": 1182,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "26ee3680-9f19-4c50-bae9-8c4e2bc38c72",
+          "text": "Register as Trainee",
+          "type": "istar.Task",
+          "x": 1688,
+          "y": 1184,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "42bc0f2e-5cbe-4e39-ae52-6aac52d84b2e",
+          "text": "GMC Licence",
+          "type": "istar.Resource",
+          "x": 1773,
+          "y": 1238,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "f23c9c94-32f6-4cee-9957-5d2d016e09fa",
+          "text": "Pass Exams",
+          "type": "istar.Task",
+          "x": 1442,
+          "y": 1223,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "54c3df04-f98f-46fa-84fb-b0d97b9613ab",
+          "text": "Physicain Qualification",
+          "type": "istar.Resource",
+          "x": 1566,
+          "y": 1295,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "0cca2c97-3636-428d-9a66-d9c5cc81c4dc",
+          "text": "GMC Specialist",
+          "type": "istar.Resource",
+          "x": 1699,
+          "y": 1329,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "71502de1-a122-4c6b-990a-833081152f8c",
+          "text": "Join Specialist Registry",
+          "type": "istar.Task",
+          "x": 1556,
+          "y": 1198,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "5d9982d9-db4b-468c-bc94-c60f222914d1",
+      "text": "RCPE",
+      "type": "istar.Actor",
+      "x": 1591,
+      "y": 727,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "1924fe98-89b9-4a62-b5b8-00395448a999",
+          "text": "Educate Physicians",
+          "type": "istar.Goal",
+          "x": 1729,
+          "y": 747,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "ebe03be2-d8da-4153-8973-693d3e46aa3f",
+          "text": "Support Members",
+          "type": "istar.Goal",
+          "x": 1958,
+          "y": 752,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "a10f9455-ce21-4d89-883e-2281ba3ae06a",
+          "text": "Provide Training",
+          "type": "istar.Task",
+          "x": 1709,
+          "y": 878,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "6c9cc779-c5b6-42a7-b9a7-c7d8ba8e1638",
+          "text": "Examination",
+          "type": "istar.Task",
+          "x": 1802,
+          "y": 859,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "dc75db73-d08d-4d65-9add-dbc67faaa7ab",
+          "text": "Track membership status",
+          "type": "istar.Task",
+          "x": 2016,
+          "y": 842,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "7a32950a-198f-4e32-9d0d-6e2073a3c5f1",
+          "text": "Trainee registration services",
+          "type": "istar.Task",
+          "x": 1901,
+          "y": 822,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "1c862a62-7965-40c2-bb4a-1e7c7ad2e0c3",
+          "text": "Check GMC Licence",
+          "type": "istar.Task",
+          "x": 1897,
+          "y": 887,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "1fcc2086-0e7c-4e90-b974-70944e622d6d",
+          "text": "Conform to GMC Standards",
+          "type": "istar.Task",
+          "x": 1591,
+          "y": 789,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "cd66fc29-afd2-4b15-9269-f026efd09929",
+          "text": "Provide Digital Services",
+          "type": "istar.Task",
+          "x": 2115,
+          "y": 795,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "70c649f7-0b7a-4dd3-8da6-2de4b43348eb",
+          "text": "Pass GMC Audit",
+          "type": "istar.Task",
+          "x": 1602,
+          "y": 850,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "ad8e5ae7-9b4d-4a69-92e2-890b7f8059f3",
+      "text": "GMC",
+      "type": "istar.Actor",
+      "x": 980,
+      "y": 783,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": [
+        {
+          "id": "b5081054-8412-4a70-9e4a-4dbac3df197c",
+          "text": "Regulate Specialist Education",
+          "type": "istar.Goal",
+          "x": 1216,
+          "y": 803,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "dd1fdf62-1c91-4685-b0e7-7de144fac359",
+          "text": "Track Specialists",
+          "type": "istar.Goal",
+          "x": 1074,
+          "y": 806,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "69dfb5d4-914d-4e55-8bfd-53652182e6c0",
+          "text": "Define Physician Training Standards",
+          "type": "istar.Task",
+          "x": 1317,
+          "y": 864,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "c866b5df-0f9f-464b-832d-bd59f58448c9",
+          "text": "Verify Specialist Qualification",
+          "type": "istar.Task",
+          "x": 1095,
+          "y": 920,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "8f699683-ce4a-4523-a1ef-490fdd14507a",
+          "text": "Provide Speciailist Licence",
+          "type": "istar.Task",
+          "x": 980,
+          "y": 927,
+          "customProperties": {
+            "Description": ""
+          }
+        },
+        {
+          "id": "202a9cf6-e362-4796-99f2-f12e8f381f76",
+          "text": "Audit Specialsit Education",
+          "type": "istar.Task",
+          "x": 1191.5,
+          "y": 885,
+          "customProperties": {
+            "Description": ""
+          }
+        }
+      ]
+    }
+  ],
+  "orphans": [],
+  "dependencies": [
+    {
+      "id": "54a6164c-b9b8-4704-919f-50c708726cf5",
+      "text": "Prove GMC Licence",
+      "type": "istar.Task",
+      "x": 1787,
+      "y": 1079,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "1c862a62-7965-40c2-bb4a-1e7c7ad2e0c3",
+      "target": "42bc0f2e-5cbe-4e39-ae52-6aac52d84b2e"
+    },
+    {
+      "id": "bba6202e-313f-40ac-881f-74cc558c19f0",
+      "text": "Define Standards",
+      "type": "istar.Task",
+      "x": 1458.25,
+      "y": 834,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "1fcc2086-0e7c-4e90-b974-70944e622d6d",
+      "target": "69dfb5d4-914d-4e55-8bfd-53652182e6c0"
+    },
+    {
+      "id": "e94f584f-58ed-4b18-bf4c-35be84a130ad",
+      "text": "Provide Training",
+      "type": "istar.Task",
+      "x": 1501,
+      "y": 976,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "bf13ac5b-870d-46f3-a68a-d9ca0e4a4091",
+      "target": "a10f9455-ce21-4d89-883e-2281ba3ae06a"
+    },
+    {
+      "id": "c8392d5e-6a83-4432-92bf-5c5728a0375e",
+      "text": "Physician Qualification",
+      "type": "istar.Resource",
+      "x": 1705,
+      "y": 1022,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "54c3df04-f98f-46fa-84fb-b0d97b9613ab",
+      "target": "6c9cc779-c5b6-42a7-b9a7-c7d8ba8e1638"
+    },
+    {
+      "id": "4a7ddf0b-809b-4342-a717-5017a240a688",
+      "text": "Prove Qualification",
+      "type": "istar.Task",
+      "x": 1204,
+      "y": 1184,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "c866b5df-0f9f-464b-832d-bd59f58448c9",
+      "target": "54c3df04-f98f-46fa-84fb-b0d97b9613ab"
+    },
+    {
+      "id": "f59f2100-03d8-49c5-a494-c2cfa27688c4",
+      "text": "GMC Specialist",
+      "type": "istar.Resource",
+      "x": 1090,
+      "y": 1293,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "0cca2c97-3636-428d-9a66-d9c5cc81c4dc",
+      "target": "8f699683-ce4a-4523-a1ef-490fdd14507a"
+    },
+    {
+      "id": "f0efd032-f2a0-4fe6-b106-5881e6ac2d46",
+      "text": "Audit RCPE",
+      "type": "istar.Task",
+      "x": 1456,
+      "y": 932,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "70c649f7-0b7a-4dd3-8da6-2de4b43348eb",
+      "target": "202a9cf6-e362-4796-99f2-f12e8f381f76"
+    }
+  ],
+  "links": [
+    {
+      "id": "65a5241c-0334-472e-a7b7-66a2fa48360c",
+      "type": "istar.AndRefinementLink",
+      "source": "69dfb5d4-914d-4e55-8bfd-53652182e6c0",
+      "target": "b5081054-8412-4a70-9e4a-4dbac3df197c"
+    },
+    {
+      "id": "9063ed96-3c81-4811-ad76-9d4562c4aea1",
+      "type": "istar.AndRefinementLink",
+      "source": "7a32950a-198f-4e32-9d0d-6e2073a3c5f1",
+      "target": "ebe03be2-d8da-4153-8973-693d3e46aa3f"
+    },
+    {
+      "id": "ccc8d6ef-03ab-466b-8e40-7b29f207807f",
+      "type": "istar.AndRefinementLink",
+      "source": "dc75db73-d08d-4d65-9add-dbc67faaa7ab",
+      "target": "ebe03be2-d8da-4153-8973-693d3e46aa3f"
+    },
+    {
+      "id": "db17ce6a-eac7-461a-8404-649239800fcb",
+      "type": "istar.AndRefinementLink",
+      "source": "1c862a62-7965-40c2-bb4a-1e7c7ad2e0c3",
+      "target": "7a32950a-198f-4e32-9d0d-6e2073a3c5f1"
+    },
+    {
+      "id": "78662317-d339-45c4-97b9-1704fef62ea3",
+      "type": "istar.AndRefinementLink",
+      "source": "cd66fc29-afd2-4b15-9269-f026efd09929",
+      "target": "ebe03be2-d8da-4153-8973-693d3e46aa3f"
+    },
+    {
+      "id": "e046c888-6e30-4169-b993-43f87d4b5c04",
+      "type": "istar.DependencyLink",
+      "source": "1c862a62-7965-40c2-bb4a-1e7c7ad2e0c3",
+      "target": "54a6164c-b9b8-4704-919f-50c708726cf5"
+    },
+    {
+      "id": "2472992f-b400-4284-9961-5eced547c9f0",
+      "type": "istar.DependencyLink",
+      "source": "54a6164c-b9b8-4704-919f-50c708726cf5",
+      "target": "42bc0f2e-5cbe-4e39-ae52-6aac52d84b2e"
+    },
+    {
+      "id": "18abda26-517f-4052-a530-9a4afcca1185",
+      "type": "istar.AndRefinementLink",
+      "source": "26ee3680-9f19-4c50-bae9-8c4e2bc38c72",
+      "target": "65bce080-390d-4b9b-a40c-b7a4dab3fc5c"
+    },
+    {
+      "id": "2082af95-2a35-4ea1-a169-e72da5176c9f",
+      "type": "istar.NeededByLink",
+      "source": "42bc0f2e-5cbe-4e39-ae52-6aac52d84b2e",
+      "target": "26ee3680-9f19-4c50-bae9-8c4e2bc38c72"
+    },
+    {
+      "id": "96586f63-94a1-414b-bca7-61771dd7eaac",
+      "type": "istar.AndRefinementLink",
+      "source": "bf13ac5b-870d-46f3-a68a-d9ca0e4a4091",
+      "target": "65bce080-390d-4b9b-a40c-b7a4dab3fc5c"
+    },
+    {
+      "id": "0e508189-398d-4f89-a24b-474e0ac60b63",
+      "type": "istar.DependencyLink",
+      "source": "1fcc2086-0e7c-4e90-b974-70944e622d6d",
+      "target": "bba6202e-313f-40ac-881f-74cc558c19f0"
+    },
+    {
+      "id": "6437bc97-53e2-49d8-b905-ccea7675731e",
+      "type": "istar.DependencyLink",
+      "source": "bba6202e-313f-40ac-881f-74cc558c19f0",
+      "target": "69dfb5d4-914d-4e55-8bfd-53652182e6c0"
+    },
+    {
+      "id": "4ce62da1-cb77-4ee5-9927-6b5a9fa2984f",
+      "type": "istar.AndRefinementLink",
+      "source": "1fcc2086-0e7c-4e90-b974-70944e622d6d",
+      "target": "1924fe98-89b9-4a62-b5b8-00395448a999"
+    },
+    {
+      "id": "9bf271d2-fdc1-4a3c-82c2-b8f51289c109",
+      "type": "istar.AndRefinementLink",
+      "source": "a10f9455-ce21-4d89-883e-2281ba3ae06a",
+      "target": "1924fe98-89b9-4a62-b5b8-00395448a999"
+    },
+    {
+      "id": "2939ade2-bd22-4a7f-9140-4952f2df2c4f",
+      "type": "istar.AndRefinementLink",
+      "source": "6c9cc779-c5b6-42a7-b9a7-c7d8ba8e1638",
+      "target": "1924fe98-89b9-4a62-b5b8-00395448a999"
+    },
+    {
+      "id": "f16d912a-1a71-4d1e-ae7a-f3a4162a2814",
+      "type": "istar.AndRefinementLink",
+      "source": "f23c9c94-32f6-4cee-9957-5d2d016e09fa",
+      "target": "65bce080-390d-4b9b-a40c-b7a4dab3fc5c"
+    },
+    {
+      "id": "b5ba008d-f17b-4b44-8993-747fd26bb1e1",
+      "type": "istar.DependencyLink",
+      "source": "bf13ac5b-870d-46f3-a68a-d9ca0e4a4091",
+      "target": "e94f584f-58ed-4b18-bf4c-35be84a130ad"
+    },
+    {
+      "id": "bc851548-2f33-4527-a311-5928c616a9e1",
+      "type": "istar.DependencyLink",
+      "source": "e94f584f-58ed-4b18-bf4c-35be84a130ad",
+      "target": "a10f9455-ce21-4d89-883e-2281ba3ae06a"
+    },
+    {
+      "id": "6efe880f-af2e-4daa-836b-771879b40a98",
+      "type": "istar.NeededByLink",
+      "source": "54c3df04-f98f-46fa-84fb-b0d97b9613ab",
+      "target": "f23c9c94-32f6-4cee-9957-5d2d016e09fa"
+    },
+    {
+      "id": "230bbfb9-8b94-48c2-9dfe-2feaacc78094",
+      "type": "istar.DependencyLink",
+      "source": "54c3df04-f98f-46fa-84fb-b0d97b9613ab",
+      "target": "c8392d5e-6a83-4432-92bf-5c5728a0375e"
+    },
+    {
+      "id": "d1a73c7a-c2ae-42c2-8b82-0be4f5611339",
+      "type": "istar.DependencyLink",
+      "source": "c8392d5e-6a83-4432-92bf-5c5728a0375e",
+      "target": "6c9cc779-c5b6-42a7-b9a7-c7d8ba8e1638"
+    },
+    {
+      "id": "f421f5e3-dbfc-452f-8521-2b16d7612222",
+      "type": "istar.AndRefinementLink",
+      "source": "71502de1-a122-4c6b-990a-833081152f8c",
+      "target": "65bce080-390d-4b9b-a40c-b7a4dab3fc5c"
+    },
+    {
+      "id": "e9e9759b-bfd9-492e-b318-9fa7e4c862e0",
+      "type": "istar.NeededByLink",
+      "source": "0cca2c97-3636-428d-9a66-d9c5cc81c4dc",
+      "target": "71502de1-a122-4c6b-990a-833081152f8c"
+    },
+    {
+      "id": "0c265da0-c886-43ca-88a3-1d5229fddf8b",
+      "type": "istar.AndRefinementLink",
+      "source": "c866b5df-0f9f-464b-832d-bd59f58448c9",
+      "target": "dd1fdf62-1c91-4685-b0e7-7de144fac359"
+    },
+    {
+      "id": "abecd25e-1e7c-4315-bd57-ce5e2db904bc",
+      "type": "istar.AndRefinementLink",
+      "source": "8f699683-ce4a-4523-a1ef-490fdd14507a",
+      "target": "dd1fdf62-1c91-4685-b0e7-7de144fac359"
+    },
+    {
+      "id": "9c00c2c1-f82c-4464-8ad7-36301220dbf4",
+      "type": "istar.DependencyLink",
+      "source": "c866b5df-0f9f-464b-832d-bd59f58448c9",
+      "target": "4a7ddf0b-809b-4342-a717-5017a240a688"
+    },
+    {
+      "id": "b8840d30-594f-471c-936f-d1942d812ac9",
+      "type": "istar.DependencyLink",
+      "source": "4a7ddf0b-809b-4342-a717-5017a240a688",
+      "target": "54c3df04-f98f-46fa-84fb-b0d97b9613ab"
+    },
+    {
+      "id": "ff676388-18b6-47ef-a49a-59f1622413b2",
+      "type": "istar.DependencyLink",
+      "source": "0cca2c97-3636-428d-9a66-d9c5cc81c4dc",
+      "target": "f59f2100-03d8-49c5-a494-c2cfa27688c4"
+    },
+    {
+      "id": "bd501702-7c6d-41ea-b297-ca360cde8bb2",
+      "type": "istar.DependencyLink",
+      "source": "f59f2100-03d8-49c5-a494-c2cfa27688c4",
+      "target": "8f699683-ce4a-4523-a1ef-490fdd14507a"
+    },
+    {
+      "id": "438adcfd-3bf3-48f6-bafc-8cdf14563734",
+      "type": "istar.AndRefinementLink",
+      "source": "202a9cf6-e362-4796-99f2-f12e8f381f76",
+      "target": "b5081054-8412-4a70-9e4a-4dbac3df197c"
+    },
+    {
+      "id": "02032a87-7ef5-4b98-a02d-f6b97d65e99a",
+      "type": "istar.AndRefinementLink",
+      "source": "70c649f7-0b7a-4dd3-8da6-2de4b43348eb",
+      "target": "1924fe98-89b9-4a62-b5b8-00395448a999"
+    },
+    {
+      "id": "41a7dd30-1533-4d9e-9626-1d14d3bf3cdf",
+      "type": "istar.DependencyLink",
+      "source": "70c649f7-0b7a-4dd3-8da6-2de4b43348eb",
+      "target": "f0efd032-f2a0-4fe6-b106-5881e6ac2d46"
+    },
+    {
+      "id": "7f18c008-41ab-4882-be4c-a79fae3d9704",
+      "type": "istar.DependencyLink",
+      "source": "f0efd032-f2a0-4fe6-b106-5881e6ac2d46",
+      "target": "202a9cf6-e362-4796-99f2-f12e8f381f76"
+    }
+  ],
+  "display": {
+    "65bce080-390d-4b9b-a40c-b7a4dab3fc5c": {
+      "width": 108.25,
+      "height": 45.80000305175781
+    },
+    "dc75db73-d08d-4d65-9add-dbc67faaa7ab": {
+      "width": 110.25,
+      "height": 38.80000305175781
+    },
+    "1fcc2086-0e7c-4e90-b974-70944e622d6d": {
+      "width": 102.75,
+      "height": 39.80000305175781
+    },
+    "b5081054-8412-4a70-9e4a-4dbac3df197c": {
+      "width": 111.25,
+      "height": 45.30000305175781
+    },
+    "dd1fdf62-1c91-4685-b0e7-7de144fac359": {
+      "width": 113.25,
+      "height": 44.80000305175781
+    },
+    "69dfb5d4-914d-4e55-8bfd-53652182e6c0": {
+      "width": 129.25,
+      "height": 48.80000305175781
+    },
+    "c866b5df-0f9f-464b-832d-bd59f58448c9": {
+      "width": 114.75,
+      "height": 52.80000305175781
+    }
+  },
+  "tool": "pistar.2.0.0",
+  "istar": "2.0",
+  "saveDate": "Thu, 11 Mar 2021 13:13:23 GMT",
+  "diagram": {
+    "width": 2535,
+    "height": 1585,
+    "name": "Welcome Model",
+    "customProperties": {
+      "Description": "Welcome to the piStar tool! This model describe some of the recent improvements in the tool.\n\nFor help using this tool, please check the Help menu above"
+    }
+  }
+}
