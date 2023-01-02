@@ -6,8 +6,8 @@ This project was produced as part of a PhD Thesis.
 
 Related publications:
 
-* Abramson, W., van Deursen, N. E., & Buchanan, W. J. (2020). Trust-by-Design: Evaluating Issues and Perceptions within Clinical Passporting. Blockchain in Healthcare Today.
-* Abramson, W., Papadopoulos, P., Pitropakis, N., & Buchanan, W. J. (2021). PyDentity: A playground for education and experimentation with the Hyperledger verifiable information exchange platform. Software Impacts, 9, 100101.
+* [Abramson, W., van Deursen, N. E., & Buchanan, W. J. (2020). Trust-by-Design: Evaluating Issues and Perceptions within Clinical Passporting. Blockchain in Healthcare Today.](https://www.scienceopen.com/document_file/efd72335-5ec3-4af4-96ea-8b1ed6cd0a59/API/BHTY-3-140.pdf)
+* [Abramson, W., Papadopoulos, P., Pitropakis, N., & Buchanan, W. J. (2021). PyDentity: A playground for education and experimentation with the Hyperledger verifiable information exchange platform. Software Impacts, 9, 100101.](https://www.sciencedirect.com/science/article/pii/S2665963821000385)
 
 You can watch a demo of the PoC on youtube:
 
